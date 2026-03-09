@@ -17,7 +17,7 @@
 ### About Me
 
 🎓 I'm a **Software Engineering student** at the **University of Azad Jammu and Kashmir**.  
-💡 I'm currently **learning Front-End Web Development** with with a modern and latest framworks.  
+💡 I'm currently **learning Front-End Web Development** with modern frameworks.  
 📚 I'm focused on improving my skills in web-development.
 
 ---
