@@ -11,7 +11,6 @@
   <a href="https://github.com/hassanmir-738?tab=followers">
     <img src="https://img.shields.io/github/followers/hassanmir-738?label=Followers&style=flat-square&color=00bcd4&labelColor=0d1b2a" alt="Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-00bcd4?style=flat-square&labelColor=0d1b2a" alt="Open to Collaborate"/>
 </div>
 
 <br/>
@@ -25,7 +24,7 @@ const hassan = {
   name      : "Hassan Ali Mir",
   role      : "Front-End Developer",
   education : "BS Software Engineering @ UAJK",
-  location  : "Azad Jammu & Kashmir, Pakistan 🇵🇰",
+  location  : "Kashmir",
   focus     : ["HTML", "CSS", "JavaScript", "React.js", "Bootstrap"],
   learning  : ["React.js", "Node.js", "Tailwind CSS", "Figma"],
   goals     : ["Full Stack Development", "AI & ML", "Deep Learning"],
@@ -102,25 +101,13 @@ const hassan = {
 ## 🚀 What I'm Up To
 
 ```
-🔨  Building       →  Personal Portfolio Website (HTML, CSS, JS)
-📖  Learning       →  React.js + Tailwind CSS v4
+🔨  Building       →  Resposive, User-Friendly sites
+📖  Learning       →  React.js + Tailwind CSS
 🎯  Goal           →  Become a Full-Stack Developer
 💡  Exploring      →  AI, Machine Learning & Deep Learning
 ```
 
----
 
-## 🌱 Future Roadmap
-
-<div align="center">
-
-| Phase | Focus Area | Status |
-|-------|-----------|--------|
-| 🟢 Now | HTML · CSS · JS · React · Bootstrap | `In Progress` |
-| 🔵 Next | Node.js · REST APIs · Databases | `Planned` |
-| 🟣 Future | Full Stack · AI/ML · Deep Learning | `Dreaming Big` |
-
-</div>
 
 ---
 
